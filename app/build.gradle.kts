@@ -70,5 +70,5 @@ dependencies {
     implementation ("androidx.compose.ui:ui-tooling:1.6.8")
     implementation ("androidx.compose.ui:ui-text:1.6.8")
     implementation ("androidx.compose.material3:material3:1.2.1")
-    implementation ("androidx.webkit:webview-compose:1.8.0")
+    implementation("androidx.webkit:webkit:1.9.0")
 }
